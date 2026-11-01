@@ -1,0 +1,5 @@
+fastapi>=0.110
+uvicorn[standard]>=0.29
+pydantic>=2
+# للإنتاج مع PostgreSQL:
+psycopg[binary]>=3.1
